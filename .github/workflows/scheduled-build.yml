@@ -19,6 +19,7 @@ on:
           - android-arm64
           - android-arm
           - android-arm64,android-arm
+          - android-x64
 
 permissions:
   contents: read
